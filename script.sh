@@ -1,0 +1,1 @@
+python3 run.py ./level/1.json dfs 3
